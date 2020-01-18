@@ -3,6 +3,14 @@ ENABLED: attivato
 DISABLE: Disattiva
 DISABLED: Disattivato
 SETTINGS: Impostazioni
+DAY: Giorno
+DAYS: Giorni
+HOUR: Ora
+HOURS: Ore
+MINUTE: Minuto
+MINUTES: Minuti
+SECOND: Secondo
+SECONDS: Secondi
 NONE: Niente
 COMMAND_NOPERMISSION: Non hai **accesso** a questo comando
 COMMAND_NOCONSOLE: Questo comando non può essere eseguito dalla console
@@ -23,10 +31,10 @@ GUI_SETTINGS_MYSQL_RESTARTREQUIRED: Richiede un riavvio per applicare le modific
 GUI_SETTINGS_MYSQL_CANTCONNECT: Non è stato possibile connettersi al tuo MySQL
 GUI_SETTINGS_MYSQL_SAVE_TITLE: Prova & Salva
 GUI_SETTINGS_MYSQL_SAVE_ACTION: Clicca per **provare** e **salvare**
-#GUI_SETTINGS_LANG_ACTION: Clicca per **selezionare **questa lingua
-#GUI_SETTINGS_LANG_SELECTED: Questa lingua è **momentaneamente** in uso
-#GUI_SETTINGS_LANG_PHRASES: Frasi
-#GUI_SETTINGS_LANG_COVERAGE: Completa al
+GUI_SETTINGS_LANG_ACTION: Clicca per **selezionare **questa lingua
+GUI_SETTINGS_LANG_SELECTED: Questa è la lingua in uso **in questo momento**
+GUI_SETTINGS_LANG_PHRASES: Frasi
+GUI_SETTINGS_LANG_COVERAGE: Copertura
 GUI_PAGEABLE_SEARCH_TITLE: Cerca
 GUI_PAGEABLE_SEARCH_ACTION: Clicca per cercare
 GUI_PAGEABLE_NEXT_TITLE: Avanti
